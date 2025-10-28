@@ -1,0 +1,11 @@
+torch==2.3.0
+transformers==4.41.0
+scikit-learn==1.4.2
+spacy==3.7.5
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.0
+seaborn==0.13.2
+nltk==3.8.1
+scipy>=1.13.0
+python-dateutil>=2.9.0
